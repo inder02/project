@@ -1,2 +1,2 @@
 # new project
-starting something new
+starting something new.
